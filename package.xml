@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Account.Status__c</members>
-        <name>CustomField</name>
+        <members>AccountStatusUpdate</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>AccountStatusUpdate</members>
+        <name>FlowDefinition</name>
     </types>
     <version>44.0</version>
 </Package>

@@ -49,7 +49,7 @@
         <dataType>Boolean</dataType>
         <expression>true</expression>
     </formulas>
-    <interviewLabel>AccountStatusUpdate-3_InterviewLabel</interviewLabel>
+    <interviewLabel>AccountStatusUpdate-4_InterviewLabel</interviewLabel>
     <label>AccountStatusUpdate</label>
     <processMetadataValues>
         <name>ObjectType</name>
